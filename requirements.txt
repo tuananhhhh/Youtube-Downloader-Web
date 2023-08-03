@@ -77,9 +77,6 @@ jupyterlab-server==2.15.0
 jupyterlab-widgets==1.1.0
 keras==2.11.0
 keyboard==0.13.5
-Kivy==2.1.0
-Kivy-Garden==0.1.5
-kiwisolver==1.4.4
 libclang==14.0.6
 lief==0.13.2
 Markdown==3.4.1
@@ -98,7 +95,6 @@ nest-asyncio==1.5.5
 nltk==3.8.1
 notebook==6.4.11
 notebook-shim==0.1.0
-numpy==1.22.4
 oauthlib==3.2.2
 opencv-contrib-python==4.6.0.66
 openpyxl==3.0.10
