@@ -8,5 +8,3 @@ pipreqs==0.4.13
 requests==2.31.0
 urllib3==2.0.4
 yarg==0.1.9
-
-
