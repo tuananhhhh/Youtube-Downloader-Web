@@ -111,26 +111,5 @@ pefile==2023.2.7
 pickleshare==0.7.5
 Pillow==9.2.0
 prometheus-client==0.14.1
-prompt-toolkit==3.0.29
-protobuf==3.19.6
-psutil==5.9.1
-pure-eval==0.2.2
-pyaes==1.6.1
-pyasn1==0.4.8
-pyasn1-modules==0.2.8
-pycodestyle==2.8.0
-pycparser==2.21
-Pygments==2.12.0
-pyinstaller==5.13.0
-pyinstaller-hooks-contrib==2023.5
-pyparsing==3.0.9
-pyperclip==1.8.2
-pypiwin32==223
-Pyrogram==2.0.59
-pyrsistent==0.18.1
-PySocks==1.7.1
-python-dateutil==2.8.2
-pytube==15.0.0
-pytz==2022.2.1
-PyUserInput==0.1.10
+
 
