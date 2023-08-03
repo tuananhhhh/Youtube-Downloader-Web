@@ -135,7 +135,6 @@ python-dateutil==2.8.2
 pytube==15.0.0
 pytz==2022.2.1
 PyUserInput==0.1.10
-pywin32==304
 pywin32-ctypes==0.2.2
 pywinpty==2.0.5
 PyYAML==6.0
